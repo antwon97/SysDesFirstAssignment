@@ -1,0 +1,13 @@
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/bin/Debug/netcoreapp3.1/SysDesFirstAssignment
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/bin/Debug/netcoreapp3.1/SysDesFirstAssignment.deps.json
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/bin/Debug/netcoreapp3.1/SysDesFirstAssignment.runtimeconfig.json
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/bin/Debug/netcoreapp3.1/SysDesFirstAssignment.runtimeconfig.dev.json
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/bin/Debug/netcoreapp3.1/SysDesFirstAssignment.dll
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/bin/Debug/netcoreapp3.1/SysDesFirstAssignment.pdb
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/obj/Debug/netcoreapp3.1/SysDesFirstAssignment.csprojAssemblyReference.cache
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/obj/Debug/netcoreapp3.1/SysDesFirstAssignment.AssemblyInfoInputs.cache
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/obj/Debug/netcoreapp3.1/SysDesFirstAssignment.AssemblyInfo.cs
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/obj/Debug/netcoreapp3.1/SysDesFirstAssignment.csproj.CoreCompileInputs.cache
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/obj/Debug/netcoreapp3.1/SysDesFirstAssignment.dll
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/obj/Debug/netcoreapp3.1/SysDesFirstAssignment.pdb
+/home/astephens65107/SystemsDesign/SysDesFirstAssignment/obj/Debug/netcoreapp3.1/SysDesFirstAssignment.genruntimeconfig.cache
